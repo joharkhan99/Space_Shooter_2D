@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 191e77e20d90aa641b63f647c537cc43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7411031707576640333
+    second: Level1_Enemy2Explosion_0
+  - first:
+      213: 7640900708428017567
+    second: Level1_Enemy2Explosion_1
+  - first:
+      213: 3257283160586137996
+    second: Level1_Enemy2Explosion_2
+  - first:
+      213: 6961524071496682212
+    second: Level1_Enemy2Explosion_3
+  - first:
+      213: -6364367980245898562
+    second: Level1_Enemy2Explosion_4
+  - first:
+      213: -1408694501475753840
+    second: Level1_Enemy2Explosion_5
+  - first:
+      213: -6971335309762906899
+    second: Level1_Enemy2Explosion_6
+  - first:
+      213: 8147985859252387003
+    second: Level1_Enemy2Explosion_7
+  - first:
+      213: 7122519198495063587
+    second: Level1_Enemy2Explosion_8
+  - first:
+      213: 7842711258207983304
+    second: Level1_Enemy2Explosion_9
+  - first:
+      213: -1378064185142813670
+    second: Level1_Enemy2Explosion_10
+  - first:
+      213: -8244983578259448245
+    second: Level1_Enemy2Explosion_11
+  - first:
+      213: 5135677842754650768
+    second: Level1_Enemy2Explosion_12
+  - first:
+      213: 6047364583770718834
+    second: Level1_Enemy2Explosion_13
+  - first:
+      213: -8314554605172926473
+    second: Level1_Enemy2Explosion_14
+  - first:
+      213: 4176307860652715317
+    second: Level1_Enemy2Explosion_15
+  - first:
+      213: 7213719698571163486
+    second: Level1_Enemy2Explosion_16
+  - first:
+      213: -2133465299507476845
+    second: Level1_Enemy2Explosion_17
+  - first:
+      213: -5485601093898761648
+    second: Level1_Enemy2Explosion_18
+  - first:
+      213: 2013471700329140585
+    second: Level1_Enemy2Explosion_19
+  - first:
+      213: -7650695544031510122
+    second: Level1_Enemy2Explosion_20
+  - first:
+      213: -6616465834229620878
+    second: Level1_Enemy2Explosion_21
+  - first:
+      213: 8198656012667243740
+    second: Level1_Enemy2Explosion_22
+  - first:
+      213: 7612840683635170437
+    second: Level1_Enemy2Explosion_23
+  - first:
+      213: 3680210584591037440
+    second: Level1_Enemy2Explosion_24
+  - first:
+      213: 4795752324891752717
+    second: Level1_Enemy2Explosion_25
+  - first:
+      213: -9023824521354560479
+    second: Level1_Enemy2Explosion_26
+  - first:
+      213: -8563301185176517155
+    second: Level1_Enemy2Explosion_27
+  - first:
+      213: 5230961476344427504
+    second: Level1_Enemy2Explosion_28
+  - first:
+      213: -1424485169713520537
+    second: Level1_Enemy2Explosion_29
+  - first:
+      213: -2231361988460676767
+    second: Level1_Enemy2Explosion_30
+  - first:
+      213: 9070701788949340626
+    second: Level1_Enemy2Explosion_31
+  - first:
+      213: 5029568070302739203
+    second: Level1_Enemy2Explosion_32
+  - first:
+      213: -4664410810070752312
+    second: Level1_Enemy2Explosion_33
+  - first:
+      213: 6830217308153280211
+    second: Level1_Enemy2Explosion_34
+  - first:
+      213: -6357989799180638157
+    second: Level1_Enemy2Explosion_35
+  - first:
+      213: -5967530459675508797
+    second: Level1_Enemy2Explosion_36
+  - first:
+      213: 7549842825548788146
+    second: Level1_Enemy2Explosion_37
+  - first:
+      213: -2030132094008328633
+    second: Level1_Enemy2Explosion_38
+  - first:
+      213: -2251857953243647395
+    second: Level1_Enemy2Explosion_39
+  - first:
+      213: 934225108198945928
+    second: Level1_Enemy2Explosion_40
+  - first:
+      213: 4147926923853081440
+    second: Level1_Enemy2Explosion_41
+  - first:
+      213: 8721646687014249592
+    second: Level1_Enemy2Explosion_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 850
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcdcb26de9b62990800000000000000
+      internalID: -7411031707576640333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 850
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe1e906bee90a60800000000000000
+      internalID: 7640900708428017567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 843
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813997d6c1343d20800000000000000
+      internalID: 3257283160586137996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 938
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea04e0624d4c9060800000000000000
+      internalID: 6961524071496682212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 838
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa295ba093da7a0800000000000000
+      internalID: -6364367980245898562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 837
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ed7280df437ce0800000000000000
+      internalID: -1408694501475753840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 834
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b173b877d04f90800000000000000
+      internalID: -6971335309762906899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 832
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf4a718f5731170800000000000000
+      internalID: 8147985859252387003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 830
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb23c697548d260800000000000000
+      internalID: 7122519198495063587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 554
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6917d3658e6dc60800000000000000
+      internalID: 7842711258207983304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 552
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cdfd6cce120ece0800000000000000
+      internalID: -1378064185142813670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 717
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e9aee8e1fe39d80800000000000000
+      internalID: -8244983578259448245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 573
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924c3ab9c7954740800000000000000
+      internalID: 5135677842754650768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 571
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728ee27c0e8ce350800000000000000
+      internalID: 6047364583770718834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 567
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7541593a4cc9c80800000000000000
+      internalID: -8314554605172926473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 564
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d60ea4fd935f930800000000000000
+      internalID: 4176307860652715317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 562
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57729e88d74c1460800000000000000
+      internalID: 7213719698571163486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 559
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960c3a1d986462e0800000000000000
+      internalID: -2133465299507476845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 293
+        width: 174
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8baa7eda3fd3b0800000000000000
+      internalID: -5485601093898761648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 286
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619b67f7d941fb10800000000000000
+      internalID: 2013471700329140585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 202
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691865510f443d590800000000000000
+      internalID: -7650695544031510122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 280
+        width: 207
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1c3a11679d24a0800000000000000
+      internalID: -6616465834229620878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 277
+        width: 212
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc6a6843a77c170800000000000000
+      internalID: 8198656012667243740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 274
+        width: 208
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c57b7644e36a960800000000000000
+      internalID: 7612840683635170437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 372
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0047e21370cb21330800000000000000
+      internalID: 3680210584591037440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_25
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 271
+        width: 217
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093deb945fed8240800000000000000
+      internalID: 4795752324891752717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 270
+        width: 238
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb339786fe4c280800000000000000
+      internalID: -9023824521354560479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 223
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54fd041fa092980800000000000000
+      internalID: -8563301185176517155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 11
+        width: 217
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f333477fbb189840800000000000000
+      internalID: 5230961476344427504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 10
+        width: 232
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760e96f09463b3ce0800000000000000
+      internalID: -1424485169713520537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_30
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 11
+        width: 238
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169fd70081c9801e0800000000000000
+      internalID: -2231361988460676767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_31
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 9
+        width: 232
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d163d9e73b91ed70800000000000000
+      internalID: 9070701788949340626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_32
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 7
+        width: 256
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30baa0c138d9cc540800000000000000
+      internalID: 5029568070302739203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_33
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2
+        width: 256
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ad33d41fa44fb0800000000000000
+      internalID: -4664410810070752312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_34
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 224
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67337247ec9ce50800000000000000
+      internalID: 6830217308153280211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_35
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 204
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e746b6f1e3c7a0800000000000000
+      internalID: -6357989799180638157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_36
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 207
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb7bc0aa21f2da0800000000000000
+      internalID: -5967530459675508797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_37
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1fdde8c0e66c860800000000000000
+      internalID: 7549842825548788146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_38
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 211
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7389dd9583d3e0800000000000000
+      internalID: -2030132094008328633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_39
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 117
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5236445f1bcfb0e0800000000000000
+      internalID: -2251857953243647395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_40
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 254
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f27249c807fc00800000000000000
+      internalID: 934225108198945928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_41
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06baa828f85609930800000000000000
+      internalID: 4147926923853081440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Enemy2Explosion_42
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87462fbd373890970800000000000000
+      internalID: 8721646687014249592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

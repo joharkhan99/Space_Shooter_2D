@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Enemy
+  - Bonus
+  - Projectile
+  - Score
+  - Health
+  - CoinsText
+  - Coin
+  - PlayerRay
+  - Rocket
+  - PlayerShip2
+  - Level3BossSpawner
+  - GameDiamondText
+  - ElectricPowerUpTag
+  - BossSpawner
+  - Level2Enemy2Spawner
+  - AdBoxTag
+  - RocketPowerUpTag
+  - Level2Enemy1Spawner
+  - Level1_enemy2Spawner
+  - ScoreTextTag
+  - Level2BossSpawner
+  - Level3Enemy1Spawner
+  - Level3Enemy2Spawner
+  - BurstingStoneSpawner
+  - PlayerHealthBarTag
+  - PlayerBullet
+  - Level3Boss
+  - BossTag
+  - Level2Enemy2
+  - SmallRock
+  - Level2Enemy1
+  - level1_Enemy2
+  - Level2Boss
+  - Level3Enemy2
+  - PlayerShip2Bullet
+  - Level1_BurstingStoneTag
+  - BossBullet
+  - EnemyBullet
+  - Level2Enemy2Bullet
+  - Level1_Enemy2Bullet
+  - Level3BossBullet
+  - Level2BossBullet
+  - Level3Enemy1Bullet
+  - Level3Enemy2Bullet
+  - PlayerShip3
+  - PlayerShip3Bullet
+  - PlayerShip4
+  - PlayerShip4Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3013793071
+    locked: 0
+  - name: GamePlay
+    uniqueID: 318948833
+    locked: 0
+  - name: Effects
+    uniqueID: 2450539209
+    locked: 0
+  - name: AdBox
+    uniqueID: 1951054611
+    locked: 0
